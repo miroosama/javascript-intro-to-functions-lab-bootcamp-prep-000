@@ -23,7 +23,3 @@ function sayHiToGrandma(logShout()){
   console.log("HELLO")
   return(`YES INDEED!`)
 }
-
-function sayHiToGrandma(string){
-  return(`I love you, too.`)
-}
