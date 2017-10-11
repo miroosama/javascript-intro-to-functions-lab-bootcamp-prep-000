@@ -15,11 +15,12 @@ function logWhisper(string) {
 }
 var lowercase = "hello"
 function sayHiToGrandma(lowercase) {
-  console.log("I can't hear you!")
-return `${lowercase}`
+  console.log("hello")
+return "${I can't hear you!}"
 }
+
 var uppercase = "HELLO"
 function sayHiToGrandma(uppercase){
-  console.log("YES INDEED!")
-  return `${uppercase}`
+  console.log("HELLO")
+  return "${YES INDEED!}`"
 }
