@@ -13,13 +13,13 @@ function logShout(string) {
 function logWhisper(string) {
   console.log("hello")
 }
-
+var lowercase = "hello"
 function sayHiToGrandma(lowercase) {
   console.log("I can't hear you!")
-return `${hello}`
+return `${lowercase}`
 }
-
+var uppercase = "HELLO"
 function sayHiToGrandma(uppercase){
   console.log("YES INDEED!")
-  return `${HELLO}`
+  return `${uppercase}`
 }
