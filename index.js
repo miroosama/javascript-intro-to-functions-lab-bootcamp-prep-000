@@ -24,7 +24,7 @@ function sayHiToGrandma(shout){
   return(`YES INDEED!`)
 }
 
-function sayHiToGrandma(){
+function sayHiToGrandma(mixedCase){
   console.log("I love you, Grandma.")
   return(`I love you, too.`)
 }
