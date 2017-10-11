@@ -14,12 +14,12 @@ function logWhisper(string) {
   console.log("hello")
 }
 
-function sayHiToGrandma(logWhisper) {
+function sayHiToGrandma(string,.toLowerCase()) {
   console.log("hello")
 return(`I can't hear you!`)
 }
 
-function sayHiToGrandma(logShout){
+function sayHiToGrandma(string,.toUpperCase()){
   console.log("HELLO")
   return(`YES INDEED!`)
 }
