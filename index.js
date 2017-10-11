@@ -22,6 +22,6 @@ saHiToGrandma("hello")
 
 function sayHiToGrandma(string){
   console.log("YES INDEED!")
-  return `$ {string}`
+  return `${string}`
 }
 sayHitoGrandma("HELLO")
