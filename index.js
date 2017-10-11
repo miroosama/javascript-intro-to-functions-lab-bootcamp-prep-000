@@ -17,10 +17,12 @@ var lowercase = "hello"
 
 function sayHiToGrandma(lowercase) {
   console.log("I can't hear you!")
+  return `${lowercase}`
 }
 
 var uppercase = "HELLO"
 
 function sayHiToGrandma(uppercase){
   console.log("YES INDEED!")
+  return `${uppercase}`
 }
