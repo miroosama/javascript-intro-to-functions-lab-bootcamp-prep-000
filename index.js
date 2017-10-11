@@ -18,10 +18,8 @@ function sayHiToGrandma(string) {
   console.log("I can't hear you!")
 return `${string}`
 }
-saHiToGrandma("hello")
 
 function sayHiToGrandma(string){
   console.log("YES INDEED!")
   return `${string}`
 }
-sayHitoGrandma("HELLO")
