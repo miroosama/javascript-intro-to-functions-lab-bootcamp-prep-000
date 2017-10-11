@@ -1,16 +1,16 @@
-function shout(uppercase) {
+function shout(string) {
   return string.toUpperCase()
 }
 
-function whisper(lowercase) {
+function whisper(string) {
   return string.toLowerCase()
 }
 
-function logShout(uppercase) {
+function logShout(string) {
   console.log("HELLO")
 }
 
-function logWhisper(lowercase) {
+function logWhisper(string) {
   console.log("hello")
 }
 
