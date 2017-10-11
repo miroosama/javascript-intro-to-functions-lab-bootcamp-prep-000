@@ -1,28 +1,26 @@
-function shout(string) {
+function shout(uppercase) {
   return string.toUpperCase()
 }
 
-function whisper(string) {
+function whisper(lowercase) {
   return string.toLowerCase()
 }
 
-function logShout(string) {
+function logShout(uppercase) {
   console.log("HELLO")
 }
 
-function logWhisper(string) {
+function logWhisper(lowercase) {
   console.log("hello")
 }
-var lowercase = "I can't hear you!"
 
 function sayHiToGrandma(lowercase) {
-  console.log("hello")
+  console.log("I can't hear you!")
   return `${lowercase}`
 }
 
-var uppercase = "YES INDEED!"
 
 function sayHiToGrandma(uppercase){
-  console.log("HELLO!")
+  console.log("YES INDEED!")
   return `${uppercase}`
 }
